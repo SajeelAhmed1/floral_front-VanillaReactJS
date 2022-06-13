@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+.wedbanner{
+    position: relative;
+    height: 50%;
+    width: 98%;
+}
+
+
+.prodrow{
+    position: absolute;
+    top: 477%;   
+    left: 15%;
+}
+
+/* .whotxt{
+    position: absolute;
+    right: 18%;
+    text-align: center;
+    height: auto;
+    top: 180%;
+    width: 50% ;
+    
+    
+
+} */
+/* .whotxt p{
+    font-weight: lighter;
+} */
+.uppertext{
+    position: relative;
+    /* left: 42%; */
+    text-align: center;
+}
+/* .arrowcon{
+    text-align: center;
+} */
+

@@ -1,0 +1,18 @@
+.c2main{
+    display: flex;
+}
+.offer{
+    width: 5px;
+    height: 5px;
+    flex: 1;
+    
+    
+}
+.p4{
+    flex: 5;
+    
+}
+.container{
+    text-align: center;
+    line-height: 0.1;
+}

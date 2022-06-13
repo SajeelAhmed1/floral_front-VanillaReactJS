@@ -1,0 +1,23 @@
+.wrapper1 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 20px;
+    row-gap: 1em;
+    text-align: center;
+  }
+  .item {
+    /* background-color: lightblue; */
+    /* border: 1px solid black; */
+    height: 60%;
+    color: #f3876c;
+  }
+  .oldprice{
+    color: #6b6b6b;
+  }
+  .item h5 {
+    
+    color: #000000;
+  }
+  .item :hover{
+    opacity:0.5;
+  }

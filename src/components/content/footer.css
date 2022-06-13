@@ -1,0 +1,43 @@
+.wrapper4footer {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 5px;
+    row-gap: 1em;
+    text-align: left;
+    position: absolute;
+    top: 1010%;
+    z-index: 10;
+  }
+
+.footer{
+    position: relative;
+    height: 5%;
+    width: 100%;
+    display: block;
+}
+
+.footertxtcont{
+    display: flex;
+    /* position: absolute; */
+    /* z-index: 900; */
+    padding: 10px;
+    
+}
+.wrapper4footer ul{
+    display: block;
+    
+}
+.wrapper4footer li{
+   font-weight: 10px;
+    
+}
+
+.x{
+    font-size: 100px;
+}
+.col1{
+    
+    line-height: 1;
+    display: inline-block;
+
+}

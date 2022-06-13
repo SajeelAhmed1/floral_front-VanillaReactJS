@@ -1,0 +1,27 @@
+.tbanner{
+    height: auto;
+    width: 100%;
+    position: relative;
+}
+.tbannertxt{
+    position: absolute;
+    right: 30%;
+    left: 10%;
+    bottom: 15%;
+    width: 30% ;
+}
+Button{
+background-color: black;
+  color: white;
+  font-size: 15px;
+  padding: 10px 60px 10px;
+  border-radius: 2px;
+  margin: 1px 0px;
+  cursor: pointer;
+}
+button:hover{
+  background-color: rgb(224, 224, 224);
+  color: rgb(0, 0, 0);
+  
+  
+}

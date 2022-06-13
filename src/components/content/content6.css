@@ -1,0 +1,28 @@
+
+.testotxtt{
+    position: absolute;
+    /* right: 30%; */
+    left: 25%;
+    top: 890%;
+    line-height: 1;
+    display: inline-block;
+    /* font-size: 70px; */
+    
+    width: 58% 
+    ;}
+.testo{
+    position: relative;
+    height: 30%;
+    width: 68%;
+}
+.testotxtt h1{
+    font-size: 50px;
+    font-weight: 100;
+    
+}
+.testotxtt p{
+    font-size: 15px;
+    font-weight: 5;
+    
+}
+

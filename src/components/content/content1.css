@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+.whobanner{
+    position: relative;
+    height: 50%;
+    width: 98%;
+}
+
+
+.whotxt{
+    position: absolute;
+    top: 195%;
+    left: 20%;
+    width: 60%;
+    padding: 10px;
+    
+    text-align: center;
+    /* word-wrap: break-word */
+    /* overflow-wrap: break-word; */
+
+}
+.whotxt p {
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;
+}
+/* .whotxt{
+    position: absolute;
+    right: 18%;
+    text-align: center;
+    height: auto;
+    top: 180%;
+    width: 50% ;
+    
+    
+
+} */
+/* .whotxt p{
+    font-weight: lighter;
+} */
+.uppertext{
+    position: relative;
+    /* left: 42%; */
+    text-align: center;
+}
+/* .arrowcon{
+    text-align: center;
+} */
+

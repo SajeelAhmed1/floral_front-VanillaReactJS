@@ -1,0 +1,24 @@
+.c2main{
+    position: relative;
+    left: 10%;
+    
+    display: flex;
+    
+}
+.offer{
+    
+    flex: 4;
+    /* left: 40%; */
+    
+}
+.p4{
+    width: 5px;
+    height: 5px;
+    flex: 1;
+    
+    
+}
+.container{
+    text-align: center;
+    line-height: 0.1;
+}

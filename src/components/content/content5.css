@@ -1,0 +1,21 @@
+
+.seltxtt{
+    position: absolute;
+    right: 30%;
+    left: 55%;
+    top: 790%;
+    line-height: 0.9;
+    display: inline-block;
+    vertical-align: middle;
+    width: 30% ;}
+.selbanner{
+    position: relative;
+    height: 50%;
+    width: 98%;
+}
+.seltxtt h1{
+    font-size: 50px;
+    font-weight: 100;
+    
+}
+
