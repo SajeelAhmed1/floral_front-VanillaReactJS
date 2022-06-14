@@ -1,0 +1,43 @@
+/* .maincont li{
+    display: inline;
+    padding: 10px;
+    text-align: center;
+}
+.maincont{
+    background-color: aqua;
+    
+}
+li{display: inline;}
+ul{
+    display: inline;
+} */
+.main{
+    font-size: small;
+    
+    /* position: relative; */
+    /* top: 100px; */
+    /* background-color: rgb(197, 73, 73); */
+    /* padding: 10px; */
+    /* padding: 0px 25px 0px 25px; */
+}
+.main li{
+    display: inline;
+}
+.secondmain{
+ padding-left: 60px;
+ padding-right: 0px;   
+}
+
+.apidiv {
+    justify-content: center;
+    text-align: center;
+}
+.jsonli{
+    display: inline;
+}
+.main{
+    /* padding-left: 20px;
+    padding-top: 5px; */
+    display: flex;
+    justify-content: center;
+}

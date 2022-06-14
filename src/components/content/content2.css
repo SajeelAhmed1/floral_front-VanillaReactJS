@@ -1,5 +1,6 @@
 .c2main{
     display: flex;
+    width: 100%;
 }
 .offer{
     width: 5px;

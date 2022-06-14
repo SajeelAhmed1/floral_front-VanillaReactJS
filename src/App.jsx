@@ -1,7 +1,7 @@
 
 import './App.css';
 import Header from './components/header';
-import Navtwo from './components/navtwo';
+import Datanavbar from './components/datanavbar';
 import Content from './components/content/content';
 import Content1 from './components/content/content1';
 import Content2 from './components/content/content2';
@@ -17,7 +17,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <Navtwo />
+      <Datanavbar />
       <section>
       <Content />
       </section>
